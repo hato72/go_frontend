@@ -30,6 +30,7 @@ export const Auth = () => {
     }
   }
   return (
+    //ログインフォーム
     <div className="flex justify-center items-center flex-col min-h-screen text-gray-600 font-mono">
       <div className="flex items-center">
         <CheckBadgeIcon className="h-8 w-8 mr-2 text-blue-500" />
